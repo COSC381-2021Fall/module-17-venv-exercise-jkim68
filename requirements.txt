@@ -1,0 +1,6 @@
+emoji==1.6.1
+emojis==0.6.0
+oneliners==1.0
+onyxjokes==0.0.6
+PyJoke==0.1.2
+pyjokes==0.6.0
